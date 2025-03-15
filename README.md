@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**thisismugil/thisismugil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mugilan**, a passionate developer from **Coimbatore**. I love creating solutions that make life easier and more enjoyable. Let's connect and build something amazing together!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer focused on building impactful applications. Currently, I am exploring new technologies and enhancing my skills in Python and web development. I am based in Coimbatore and always eager to learn more and collaborate on exciting projects.
+
+## Skills & Technologies
+
+django,flask,html,css,git,github,react
+
+## Top Projects
+
+Here are some of my top projects: 
+
+
+## GitHub Stats
+
+🔹 **Public Repositories:** 5  
+🔹 **Followers:** 0  
+🔹 **Following:** 1  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisismugil&show_icons=true&theme=radical)
+
+## Connect with Me
+
+Email: mugil1206@gmail.com
