@@ -19,13 +19,13 @@
 
 <h2>📊 GitHub Activity</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mugilangc12&show_icons=true&theme=radical" alt="Mugilan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisismugil&show_icons=true&theme=radical" alt="Mugilan's GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugilangc12&theme=radical" alt="Mugilan's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismugil&theme=radical" alt="Mugilan's GitHub streak" />
 </p>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mugilangc12&theme=radical" alt="Mugilan's GitHub Contribution"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisismugil&theme=radical" alt="Mugilan's GitHub Contribution"/>
 </p>
 
 <!-- <h2>✒️ Recent Posts</h2> -->
