@@ -21,7 +21,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thisismugil&show_icons=true&theme=radical" alt="Mugilan's GitHub stats" />
 </p>
-https://streak-stats.demolab.com?user=thisismugil&theme=shades-of-purple&hide_border=true
+<p>
+<img src="https://streak-stats.demolab.com?user=thisismugil&theme=shades-of-purple&hide_border=true" alt="thisismugil's GitHub Stats" />
+</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismugil&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="thisismugil's GitHub Stats" />
 </p>
