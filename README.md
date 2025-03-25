@@ -22,7 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thisismugil&show_icons=true&theme=radical" alt="Mugilan's GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismugil&theme=radical" alt="Mugilan's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=thisismugil&theme=shades-of-purple&hide_border=true" alt="thisismugil's GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismugil&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="thisismugil's GitHub Stats" />
 </p>
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisismugil&theme=radical" alt="Mugilan's GitHub Contribution"/>
