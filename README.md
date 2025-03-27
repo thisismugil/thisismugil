@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mugilan</h1>
-<p>A passionate Software developer </p>
+<h1>A passionate Software developer </h1>
 
 <h2>🚀 Languages and Tools I Use</h2> 
 <p>
