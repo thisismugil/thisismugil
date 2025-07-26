@@ -19,7 +19,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/c3b43250-94a7-48c7-8b93-ca948d2f8e9e)
+">
 
 🎯 **Junior Software Engineer Intern** at **SNS Innovation Hub**  
 🤖 Passionate about **AI, Prompt Engineering**, and **Full-Stack Development**  
