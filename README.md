@@ -1,6 +1,13 @@
 <div align="center">
   
 # 👋 Hi there, I'm Mugilan GC!
+<div align="center">
+  
+### 💭 *"Building the future with AI, one line of code at a time"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%7C+AI+Enthusiast;Full-Stack+Developer+%7C+Prompt+Engineer;Building+AI-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -155,46 +162,5 @@
 
 ---
 
-<div align="center">
-  
-### 💭 *"Building the future with AI, one line of code at a time"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>
-```
-
-This GitHub profile README features:
-
-✨ **Visual Elements:**
-- Animated typing effect header
-- Profile view counter
-- Gradient color scheme (dark theme with cyan accents)
-- Professional badges and shields
-- GitHub stats cards with matching theme
-- Animated GIF for personality
-
-🎯 **Professional Structure:**
-- Clean sections with proper spacing
-- Easy-to-scan information layout
-- Highlighted key achievements
-- Technical skills with visual badges
-- Project showcase in table format
-
-📊 **GitHub Integration:**
-- Live GitHub stats
-- Contribution streaks
-- Most used languages
-- GitHub trophies
-- All with consistent theming
-
-🚀 **Hiring Manager Appeal:**
-- Clear value proposition
-- Quantified achievements
-- Relevant technical skills
-- Professional contact information
-- Educational background
-- Soft skills emphasis
-
-The README uses a modern dark theme with cyan highlights that's easy on the eyes and looks professional. All the requested sections are included with proper spacing and visual hierarchy to make it impressive for recruiters and collaborators.
 
