@@ -26,7 +26,7 @@
 💻 Skilled in both **Frontend** and **Backend** technologies  
 🔧 Keen interest in building **AI-driven automation tools**  
 🎓 Currently pursuing **B.Tech in AI & ML** (2022–2026)  
-📍 Based in **Trichy, India**
+📍 Based in **Trichy-Coimbatore, India**
 
 <br clear="right"/>
 
@@ -77,7 +77,6 @@
 | **🤖 AI-Powered Scrum Master** | `FastAPI` `Next.js` `GeminiAI` `MongoDB` | Automates sprint planning and team management with intelligent task allocation |
 | **📚 Learning Platform** | `Django` `MongoDB` `JavaScript` | Comprehensive online learning system similar to Udemy with progress tracking |
 | **👁️ Object Detection System** | `YOLOv5` `OpenCV` `Python` | Real-time image recognition platform for automated object identification |
-| **🔧 AI Automation Tools** | `Python` `FastAPI` `GenAI` | Collection of AI-driven tools for workflow automation and productivity |
 
 </div>
 
