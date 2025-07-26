@@ -149,7 +149,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugi1206@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918248554001)
 
-**📞 +91 8248554001** • **✉️ muji1206@gmail.com**
+**📞 +91 8248554001** • **✉️ mugi1206@gmail.com**
 
 </div>
 
