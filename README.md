@@ -95,7 +95,9 @@
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=thisismugil&theme=shades-of-purple&hide_border=true" alt="thisismugil's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismugil&theme=blueberry_duo&hide_border=true" alt="GitHub Streaks"/>
+</p>
 
 
 </div>
