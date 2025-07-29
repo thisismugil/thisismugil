@@ -77,6 +77,9 @@
 | **🤖 AI-Powered Scrum Master** | `FastAPI` `Next.js` `GeminiAI` `MongoDB` | Automates sprint planning and team management with intelligent task allocation |
 | **📚 Learning Platform** | `Django` `MongoDB` `JavaScript` | Comprehensive online learning system similar to Udemy with progress tracking |
 | **👁️ Object Detection System** | `YOLOv5` `OpenCV` `Python` | Real-time image recognition platform for automated object identification |
+| **👁️ Startzyai** | `Gemini` `Node.js` `Next.js` | Our AI analyzes market trends, competition, and user needs to help refine your startup idea, identify 
+opportunities, and suggest improvements to your value proposition. |
+
 
 </div>
 
