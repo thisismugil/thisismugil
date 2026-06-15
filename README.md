@@ -23,7 +23,7 @@
 🤖 Passionate about **AI, Prompt Engineering**, and **Full-Stack Development**  
 💻 Skilled in both **Frontend** and **Backend** technologies  
 🔧 Keen interest in building **AI-driven automation tools**  
-🎓 Currently pursuing **B.Tech in AI & ML** (2022–2026)  
+🎓 **B.Tech in AI & ML** (2022–2026)  
 📍 Based in **Trichy-Coimbatore, India**
 
 <br clear="right"/>
