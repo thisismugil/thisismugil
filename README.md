@@ -75,7 +75,7 @@
 | **🤖 AI-Powered Scrum Master** | `FastAPI` `Next.js` `GeminiAI` `MongoDB` | Automates sprint planning and team management with intelligent task allocation |
 | **📚 Learning Platform** | `Django` `MongoDB` `JavaScript` | Comprehensive online learning system similar to Udemy with progress tracking |
 | **👁️ Object Detection System** | `YOLOv5` `OpenCV` `Python` | Real-time image recognition platform for automated object identification |
-| **🤖 Startzyai**  https://www.startzyai.com/ | `Frontend screens and logics` `Landing page` `Next.js` | Our AI analyzes market trends, competition, and user needs to help refine your startup idea, identify opportunities, and suggest improvements to your value.|
+| **🤖 Startzyai**  | `Frontend screens and logics` `Landing page` `Next.js` | Our AI analyzes market trends, competition, and user needs to help refine your startup idea, identify opportunities, and suggest improvements to your value.|
 
 
 </div>
@@ -99,20 +99,6 @@
 
 
 </div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-🏆 **Agentforce Salesforce Specialist**  
-📜 **Completed 8 Levels of Hindi Proficiency Exams**  
-🎯 **Active Contributor to Open Source Projects**  
-💡 **AI Innovation Hub Member**
-
-</div>
-
 ---
 
 ## 📚 Education
@@ -127,21 +113,6 @@
 • SSLC: **93%**
 
 </div>
-
----
-
-## 🗣️ Languages
-
-<div align="center">
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 **English** | Read • Write • Speak |
-| 🇮🇳 **Tamil** | Read • Write • Speak |
-| 🇮🇳 **Hindi** | Read • Write |
-
-</div>
-
 ---
 
 ## 📬 Let's Connect!
